@@ -1,10 +1,6 @@
 ![MasterHead](https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg)
 <h1 align="center">Hi 👋, I'm Akshay N</h1>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theakshayofcl&label=Profile%20views&color=0e75b6&style=flat" alt="theakshayofcl" /> </p>
-
-<p align="left"> <a href="https://twitter.com/the_akshayofcl" target="blank"><img src="https://img.shields.io/twitter/follow/the_akshayofcl?logo=twitter&style=for-the-badge" alt="the_akshayofcl" /></a> </p>
 
 - I'm Currently learning **Java & Java Script**
 
