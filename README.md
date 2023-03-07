@@ -1,4 +1,4 @@
-![MasterHead](https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg)
+![MasterHead](http://logoman.ca/wp-content/uploads/2018/01/Slider-Banner-Programming-Image-.jpg)
 
 
 <h1 align="center">Hi there👋, I'm Akshay N</h1>
