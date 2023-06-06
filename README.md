@@ -4,8 +4,7 @@
 <h1 align="center">Hi there👋, I'm Akshay N</h1>
 
 
-//animation gif
-<img align="right" alt="Coding" width="400" src="">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theakshayofcl&label=Profile%20views&color=0e75b6&style=flat" alt="theakshayofcl" /> </p>
 
