@@ -1,16 +1,16 @@
-//HEADER
+/*HEADER*/
 ![MasterHead](https://i.pinimg.com/originals/b3/b2/ca/b3b2caabfcb0b93be1b4201ed5d8bf12.jpg)
 
-//TITLE
+/*TITLE*/
 <h1 align="center">Hi there👋, I'm Akshay N</h1>
 
 
 
-//PROFILE VIEWS
+/*PROFILE VIEWS*/
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theakshayofcl&label=Profile%20views&color=0e75b6&style=flat" alt="theakshayofcl" /> </p>
 
 
-
+/*ABOUT*/
 - I'm Currently learning **Java**
 - 📫 How to reach me **theakshayofcl@gmail.com**
 
