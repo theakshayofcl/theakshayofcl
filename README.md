@@ -1,4 +1,4 @@
-/*HEADER*/
+*HEADER*
 ![MasterHead](https://i.pinimg.com/originals/b3/b2/ca/b3b2caabfcb0b93be1b4201ed5d8bf12.jpg)
 
 /*TITLE*/
