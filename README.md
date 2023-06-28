@@ -1,5 +1,5 @@
 
-![MasterHead](https://i.pinimg.com/originals/97/dd/6f/97dd6fd3116f5ad3c3fc7cf54c0f7297.png)
+![MasterHead](http://logoman.ca/wp-content/uploads/2018/01/Slider-Banner-Programming-Image-.jpg)
 
 
 <h1 align="center">Hi there👋, I'm Akshay N</h1>
