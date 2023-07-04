@@ -10,22 +10,15 @@
 
 
 <h2>My Skill Stack:</h2>
-<h3>Technical Skills<h3>
+
 <ul>
   <li>Java</li>
-  <li>Computer Networks</li>
-  <li>MS-Office</li>
-</ul>  
-
-
-<h3>Design Skills<h3>
-<ul>
   <li>Figma</li>
   <li>Canva</li>
 </ul> 
 
 <br>
-Mail me at: 📧theakshayofcl@gmail.com
+<li>Mail me at: 📧theakshayofcl@gmail.com</li>
 
 
 <br>
