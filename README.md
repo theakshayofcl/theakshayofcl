@@ -25,7 +25,7 @@
 </ul> 
 
 <br>
-Mail me at 📫 **theakshayofcl@gmail.com**
+Mail me at: 📧theakshayofcl@gmail.com
 
 
 <br>
