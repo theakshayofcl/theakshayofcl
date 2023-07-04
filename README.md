@@ -1,5 +1,6 @@
 
-![MasterHead](http://logoman.ca/wp-content/uploads/2018/01/Slider-Banner-Programming-Image-.jpg)
+![Header](https://github.com/theakshayofcl/theakshayofcl/assets/117805488/ba73fdf3-2753-4ee0-a824-303ce41e865a)
+
 
 
 <h1 align="center">Hi there👋, I'm Akshay </h1>
