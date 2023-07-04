@@ -38,6 +38,6 @@ Mail me at 📫 **theakshayofcl@gmail.com**
 
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=theakshayofcl&show_icons=true&locale=en" alt="theakshayofcl" />
-
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=theakshayofcl&" alt="theakshayofcl" />
+<br>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=theakshayofcl&" alt="theakshayofcl" />
 </p>
