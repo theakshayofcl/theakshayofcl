@@ -11,18 +11,33 @@
 
 
 
-- I'm Currently learning **Java**
-- 📫 How to reach me **theakshayofcl@gmail.com**
+<h2>My Skill Stack:</h2>
+<h3>Technical Skills<h3>
+<ul>
+  <li>Java</li>
+  <li>Computer Networks</li>
+  <li>MS-Office</li>
+</ul>  
+
+
+<h3>Design Skills<h3>
+<ul>
+  <li>Figma</li>
+  <li>Canva</li>
+</ul> 
+
+<br>
+Mail me at 📫 **theakshayofcl@gmail.com**
+
+
+<br>
+<br>
+<br>
 
 
 
 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=theakshayofcl&show_icons=true&locale=en" alt="theakshayofcl" />
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theakshayofcl&show_icons=true&locale=en" alt="theakshayofcl" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theakshayofcl&" alt="theakshayofcl" /></p>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=theakshayofcl&" alt="theakshayofcl" />
+</p>
