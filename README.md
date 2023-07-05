@@ -1,6 +1,5 @@
 
-![Header](https://github.com/theakshayofcl/theakshayofcl/assets/117805488/ba73fdf3-2753-4ee0-a824-303ce41e865a)
-
+![Github Banner ](https://github.com/theakshayofcl/theakshayofcl/assets/117805488/4ceee436-9345-4c78-8fd0-7cdd8a023958)
 
 
 <h1 align="center">Hi there👋, I'm Akshay </h1>
