@@ -1,8 +1,8 @@
 
 
 
-<h1 align="center">Hi there👋, I'm Akshay </h1>
-
+<h1 align="center">Hi there👋, I'm Akshay N </h1>
+<h2 align="center">Java Coder | Web&Graphic Designer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theakshayofcl&label=Profile%20views&color=0CC0DF&style=flat" alt="theakshayofcl" /> </p>
 
