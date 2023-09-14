@@ -9,13 +9,6 @@
 
 
 
-<h2>My Skill Stack:</h2>
-
-<ul>
-  <li>Java</li>
-  <li>Figma</li>
-  <li>Canva</li>
-</ul> 
 
 <br>
 <li>Mail me at: 📧theakshayofcl@gmail.com</li>
