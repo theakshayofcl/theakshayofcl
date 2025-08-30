@@ -7,12 +7,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theakshayofcl&label=Profile%20views&color=0CC0DF&style=flat" alt="theakshayofcl" /> </p>
 
-
-
-
+<h3><b>Key Skills</b></h3>
+<ul>
+  <li><b>Power BI</b></li>
+  <li><b>SQL</b></li>
+  <li><b>Python</b> </li>
+  <li><b>MS-Excel</b></li>
+</ul>
 
 <br>
+<li>The repository contains my latest projects. Feel free to take a look.</li>
 <li>Mail me at: 📧theakshayofcl@gmail.com</li>
+
 
 
 <br>
